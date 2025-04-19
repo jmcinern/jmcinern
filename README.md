@@ -1,4 +1,4 @@
-# Some Highlights from my Portfolio
+# Some Visual Highlights from my Portfolio
  ## Corpus Map of French Speaking African News-Media
  ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
  ## A Visualisation of Multicolinearity 
