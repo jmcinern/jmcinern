@@ -35,6 +35,7 @@ Full notebook: https://colab.research.google.com/drive/1ZQKbeogAHLg5KORAwfZZbh4I
 ![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487)
 
 The repo: https://github.com/jmcinern/KnowledgeEngineering
+
 To read more (report): https://github.com/jmcinern/KnowledgeEngineering/blob/main/Knowledge_Engineering_report.pdf 
 
 
