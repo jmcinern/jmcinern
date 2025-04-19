@@ -26,7 +26,7 @@ To read more (report): https://github.com/jmcinern/NLP_QUB/blob/main/NLP_JosephM
 
 ![image](https://github.com/user-attachments/assets/ee51607d-123a-438b-b3ec-32754ee8ab84)
 
-## Support Vector Machine (SVM)
+## Support Vector Machine (SVM) Bias-Variance Trade-off with Gamma Parameter (Analysing Over-fitting)
 
 ![image](https://github.com/user-attachments/assets/b5b51d4c-4481-4625-a349-067b813f4662)
 
