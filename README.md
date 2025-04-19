@@ -12,6 +12,25 @@ The repo: https://github.com/jmcinern/Machine-Learning-
 
 To read more (report): https://github.com/jmcinern/Machine-Learning-/blob/main/Machine_Learning_JM.pdf 
 
+## Comparing Distributions of Language Complexity Across Writing Styles
+
+![image](https://github.com/user-attachments/assets/ec8738f8-602e-4fc5-884d-de8b4ee5dc05)
+
+The repo: https://github.com/jmcinern/NLP_QUB
+
+To read more (report): https://github.com/jmcinern/NLP_QUB/blob/main/NLP_JosephMcInerney_40460549_report.pdf
+
+## PCA Analysis of Immune Genes 
+
+![image](https://github.com/user-attachments/assets/2b971a7b-54d3-4c93-a61f-993a92f127a7)
+
+![image](https://github.com/user-attachments/assets/ee51607d-123a-438b-b3ec-32754ee8ab84)
+
+## Support Vector Machine (SVM)
+
+![image](https://github.com/user-attachments/assets/b5b51d4c-4481-4625-a349-067b813f4662)
+
+
 
 
 
