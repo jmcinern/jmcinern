@@ -30,7 +30,12 @@ To read more (report): https://github.com/jmcinern/NLP_QUB/blob/main/NLP_JosephM
 
 Full notebook: https://colab.research.google.com/drive/1ZQKbeogAHLg5KORAwfZZbh4Ie6TiB67i?usp=sharing
 
+## Topology of a Bayesian Network
 
+![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487)
+
+The repo: https://github.com/jmcinern/KnowledgeEngineering
+To read more (report): https://github.com/jmcinern/KnowledgeEngineering/blob/main/Knowledge_Engineering_report.pdf 
 
 
 
