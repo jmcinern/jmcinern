@@ -1,5 +1,10 @@
 # Some Visualisation Highlights from my Portfolio
 
+## Large Scale Data Synthesis: Generating Linguistically Varied Irish Sentences to Improve Speech Recognition 
+
+https://github.com/jmcinern/placenames
+
+
  ## RAG Model for Irish Politics
  ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
  
