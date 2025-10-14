@@ -1,5 +1,9 @@
 # Some Visualisation Highlights from my Portfolio
-
+## Datasets and Models
+- Tokenizers
+- LLMs
+- Datasets
+https://huggingface.co/jmcinern
 ## Large Scale Data Synthesis: Generating Linguistically Varied Irish Sentences to Improve Speech Recognition 
 
 https://github.com/jmcinern/placenames
