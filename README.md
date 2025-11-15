@@ -4,6 +4,8 @@ https://huggingface.co/jmcinern
 - Tokenizers
 - LLMs
 - Datasets
+
+- LLM APP: https://huggingface.co/spaces/jmcinern/Qomhra
 ## Large Scale Data Synthesis: Generating Linguistically Varied Irish Sentences to Improve Speech Recognition 
 
 https://github.com/jmcinern/placenames
