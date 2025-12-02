@@ -35,7 +35,7 @@
   
  ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
 
- - Undergraduate thesis (72%), combining computer Science, linguistics and French with new knowledge of econometrics.
+ - Undergraduate thesis (72%), combining computer science, linguistics and French with new knowledge of econometrics.
 - Collected a corpus of French-speaking African new media, covering 23 countries and over 50M words 
 - Classified articles as to whether the subject was France.
 - Measured the negative sentiment of these articles using multiple lexicons.
