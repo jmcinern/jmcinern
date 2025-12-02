@@ -1,6 +1,5 @@
 # My Portfolio 
-- This contains a selection of projects, from personal projects to those completed as part of my BA Computer Science and Linguistics and French at Trinity College Dublin (TCD), my MSc of Artificial Intelligence at Queen's University Belfast and my work as a researcher as a researcher as part of the ABAIR group at TCD.
-- To see more projects, take a look at my reposotories.
+- This contains a selection of projects, more can be found in at my GitHub.
 - To get in touch: mcinerjo@tcd.ie
 ## V1 Bilingual Irish and English 8B parameter LLM that I developed.
 <h3 align="center">Qomhrá LLM Demo</h3>
