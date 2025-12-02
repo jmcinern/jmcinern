@@ -1,19 +1,17 @@
-# Some Visualisation Highlights from my Portfolio
+# My Portfolio
+## V1 Bilingual Irish and English 8B parameter LLM that I developed.
+- The demo is using the quantized version
+- The demo is sped up X1.6
+- The model is deployed: https://huggingface.co/spaces/jmcinern/Qomhra
 
-<h3 align="center">Watch the App Demo</h3>
+<h3 align="center">Qomhrá LLM Demo</h3>
 <div align="center">
   <video src="./Qomhra_Fast.mp4" width="100%" controls autoplay muted loop>
     Your browser does not support the video tag.
   </video>
 </div>
 
-## Datasets and Models
-https://huggingface.co/jmcinern
-- Tokenizers
-- LLMs
-- Datasets
 
-- LLM APP: https://huggingface.co/spaces/jmcinern/Qomhra
 ## Large Scale Data Synthesis: Generating Linguistically Varied Irish Sentences to Improve Speech Recognition 
 
 https://github.com/jmcinern/placenames
