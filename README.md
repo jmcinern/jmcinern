@@ -21,11 +21,10 @@
 
 
 ## RAG Model for Irish Politics
-- Personal project to empower the Irish 
-  
+
  ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
 
- public to interact with primary political sources, removing the subjective framing of the news media.
+- Personal project to empower the Irish public to interact with primary political sources, removing the subjective framing of the news media.
 - Collected 100 years of data, including 1B words of English and 10M words of Irish.
 - Tagged language proportion per debate.
 - Created a semantic database, to allow an LLM to answer questions with the most relevant parliamentary contributions as context.
