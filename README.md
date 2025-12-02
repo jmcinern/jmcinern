@@ -1,4 +1,7 @@
-# My Portfolio
+# My Portfolio 
+- This contains a selection of projects, from personal projects to those completed as part of my BA Computer Science and Linguistics and French at Trinity College Dublin (TCD), my MSc of Artificial Intelligence at Queen's University Belfast and my work as a researcher as a researcher as part of the ABAIR group at TCD.
+- To see more projects, take a look at my reposotories.
+- To get in touch: mcinerjo@tcd.ie
 ## V1 Bilingual Irish and English 8B parameter LLM that I developed.
 <h3 align="center">Qomhrá LLM Demo</h3>
 <div align="center">
@@ -8,7 +11,7 @@
 </div>
 
 
-- Continued  pre-training on an existing multilingual model on Irish language data. 
+- Continued pre-training on an existing multilingual model on Irish language data. 
 - Included high proportion of English data, as similar efforts reported degredation in English performance.
 - Designed custom data scheduling for adaption efficiency, presenting the model with "easier" data first.
 - Instruction tuned and optimized L1-speaker-aligned preference data to provide a user-friendly chatbot.
@@ -18,33 +21,34 @@
 
 
 ## RAG Model for Irish Politics
+- Personal project to empower the Irish public to interact with primary political sources, removing the subjective framing of the news media.
+- Collected 100 years of data, including 1B words of English and 10M words of Irish.
+- Tagged language proportion per debate.
+- Created a semantic database, to allow an LLM to answer questions with the most relevant parliamentary contributions as context.
+- Set up interface, using LangChain for few-shot prompting to ensure responses included direct quotes and debate citations.
+- Deployment in the works.
+  
  ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
+
  
- The repo: https://github.com/jmcinern/Oireachtas_RAG
-
-
-
-
 ## Corpus Map of French Speaking African News-Media
+- Undergraduate thesis (72%), combining computer Science, linguistics and French with new knowledge of econometrics.
+- Collected a corpus of French-speaking African new media, covering 23 countries and over 50M words 
+- Classified articles as to whether the subject was France.
+- Measured the negative sentiment of these articles using multiple lexicons.
+- Collected the CAC 40 market price for the same time period, calculated daily returns, acting as a proxy for the French stock market.
+- Tested statisticsl assumptions of stationarity, heteroscedasticity and multi-colinearity, before performing parsimonious Vector Autogregressive (VAR) experiments.
+- Measured the impact of negative sentiment on the stock market, identifying the significant relationship, that returns were positive when no negative sentiment detected.
+  
  ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
 
- The repo: https://github.com/jmcinern/CapstoneProject
  
- To read more (report): https://github.com/jmcinern/CapstoneProject/blob/main/FYP_JosephMcInerney.pdf
  ## A Visualisation of Multicolinearity - Spectral Data for Virus Classification
  ![image](https://github.com/user-attachments/assets/b8014aa7-bce6-4ce3-8945-ec569c5a065e)
-
-The repo: https://github.com/jmcinern/Machine-Learning- 
-
-To read more (report): https://github.com/jmcinern/Machine-Learning-/blob/main/Machine_Learning_JM.pdf 
 
 ## Comparing Distributions of Language Complexity Across Writing Styles
 
 ![image](https://github.com/user-attachments/assets/ec8738f8-602e-4fc5-884d-de8b4ee5dc05)
-
-The repo: https://github.com/jmcinern/NLP_QUB
-
-To read more (report): https://github.com/jmcinern/NLP_QUB/blob/main/NLP_JosephMcInerney_40460549_report.pdf
 
 ## PCA Analysis of Immune Genes and SVM Bias-Variance Analysis
 
@@ -54,15 +58,9 @@ To read more (report): https://github.com/jmcinern/NLP_QUB/blob/main/NLP_JosephM
 
 ![image](https://github.com/user-attachments/assets/b5b51d4c-4481-4625-a349-067b813f4662)
 
-Full notebook: https://colab.research.google.com/drive/1ZQKbeogAHLg5KORAwfZZbh4Ie6TiB67i?usp=sharing
-
 ## Topology of a Bayesian Network
 
 ![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487)
-
-The repo: https://github.com/jmcinern/KnowledgeEngineering
-
-To read more (report): https://github.com/jmcinern/KnowledgeEngineering/blob/main/Knowledge_Engineering_report.pdf 
 
 
 
