@@ -1,5 +1,5 @@
 # My Portfolio 
-- This contains a selection of projects, more can be found in at my GitHub.
+- This contains a selection of projects, more can be found in at my GitHub, https://github.com/jmcinern
 - To get in touch: mcinerjo@tcd.ie
 ## V1 Bilingual Irish and English 8B parameter LLM that I developed.
 <h3 align="center">Qomhrá LLM Demo</h3>
