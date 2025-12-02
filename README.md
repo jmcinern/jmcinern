@@ -21,28 +21,30 @@
 
 
 ## RAG Model for Irish Politics
-- Personal project to empower the Irish public to interact with primary political sources, removing the subjective framing of the news media.
+- Personal project to empower the Irish 
+  
+ ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
+
+ public to interact with primary political sources, removing the subjective framing of the news media.
 - Collected 100 years of data, including 1B words of English and 10M words of Irish.
 - Tagged language proportion per debate.
 - Created a semantic database, to allow an LLM to answer questions with the most relevant parliamentary contributions as context.
 - Set up interface, using LangChain for few-shot prompting to ensure responses included direct quotes and debate citations.
 - Deployment in the works.
-  
- ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
 
  
 ## Corpus Map of French Speaking African News-Media
-- Undergraduate thesis (72%), combining computer Science, linguistics and French with new knowledge of econometrics.
+  
+ ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
+
+ - Undergraduate thesis (72%), combining computer Science, linguistics and French with new knowledge of econometrics.
 - Collected a corpus of French-speaking African new media, covering 23 countries and over 50M words 
 - Classified articles as to whether the subject was France.
 - Measured the negative sentiment of these articles using multiple lexicons.
 - Collected the CAC 40 market price for the same time period, calculated daily returns, acting as a proxy for the French stock market.
 - Tested statisticsl assumptions of stationarity, heteroscedasticity and multi-colinearity, before performing parsimonious Vector Autogregressive (VAR) experiments.
 - Measured the impact of negative sentiment on the stock market, identifying the significant relationship, that returns were positive when no negative sentiment detected.
-  
- ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
 
- 
  ## A Visualisation of Multicolinearity - Spectral Data for Virus Classification
  ![image](https://github.com/user-attachments/assets/b8014aa7-bce6-4ce3-8945-ec569c5a065e)
 
