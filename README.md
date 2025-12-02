@@ -12,12 +12,17 @@
 </div>
 
 
- ## RAG Model for Irish Politics
+
+
+## RAG Model for Irish Politics
  ![image](https://github.com/user-attachments/assets/022e82c0-d1bd-4ec4-88ca-96ca88684c1b)
  
  The repo: https://github.com/jmcinern/Oireachtas_RAG
 
- ## Corpus Map of French Speaking African News-Media
+
+
+
+## Corpus Map of French Speaking African News-Media
  ![image](https://github.com/user-attachments/assets/63546352-035e-42b2-8b96-f85ccfbe90f9)
 
  The repo: https://github.com/jmcinern/CapstoneProject
