@@ -1,7 +1,10 @@
 # My Portfolio
 ## V1 Bilingual Irish and English 8B parameter LLM that I developed.
-- The demo is using the quantized version
-- The demo is sped up X1.6
+- Continued  pre-training on an existing multilingual model on Irish language data. 
+- Included high proportion of English data, as similar efforts reported degredation in English performance.
+- Designed custom data scheduling for adaption efficiency, presenting the model with "easier" data first.
+- Instruction tuned and optimized L1-speaker-aligned preference data to provide a user-friendly chatbot.
+- Quantized with respect to most important parameters for English and Irish generation to reduce inference cost.
 - The model is deployed: https://huggingface.co/spaces/jmcinern/Qomhra
 
 <h3 align="center">Qomhrá LLM Demo</h3>
