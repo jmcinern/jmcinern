@@ -49,19 +49,55 @@
 
 ## Comparing Distributions of Language Complexity Across Writing Styles
 
+- Using average maximium syntactic dependancy as a proxy for language complexity to compare language complexity across genres of text that was generated synthetically.
+
+<img width="804" height="199" alt="image" src="https://github.com/user-attachments/assets/b7d48f12-5009-47f6-aff9-1293fe455cfb" />
+
 ![image](https://github.com/user-attachments/assets/ec8738f8-602e-4fc5-884d-de8b4ee5dc05)
 
 ## PCA Analysis of Immune Genes and SVM Bias-Variance Analysis
+
+- Trying to classify immune subtypes relevant to cancer based on gene expression.
 
 ![image](https://github.com/user-attachments/assets/2b971a7b-54d3-4c93-a61f-993a92f127a7)
 
 ![image](https://github.com/user-attachments/assets/ee51607d-123a-438b-b3ec-32754ee8ab84)
 
-![image](https://github.com/user-attachments/assets/b5b51d4c-4481-4625-a349-067b813f4662)
+- Feature projection to prevent convergence instability from multicolinearity.
+
+<img width="1460" height="990" alt="image" src="https://github.com/user-attachments/assets/0751e43c-cbde-4ab4-a93f-e4d7352023d6" />
+
+- Hyperparameter grid search for classifier
 
 ## Topology of a Bayesian Network
 
-![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487)
+- Modelling PrimeKG medical database as a knowledge graph, modelling multiple probabilities.
+
+![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487
+
+## Potuguese Grade Feature Correlation Matrix
+
+- Regression analysis, showing that the best predictor of the next exam result is previous exam results and not other features such as parents education, indicating that there are other factors that are not factored into the model.
+
+<img width="753" height="531" alt="image" src="https://github.com/user-attachments/assets/9ddde9be-ac4c-42a3-9e05-d5643cfdb753" />
+
+## Image Classification with Convolutional Neural Network (CNN)
+
+- Data augmentation was used to increase diversity of training images and dropout was added to reduce overfitting.
+
+### Before Dropout - Overfitting 
+
+- CNN overfits to training data and diverges from test illustrated by the models loss accuracy during training.  
+
+<img width="1095" height="468" alt="image" src="https://github.com/user-attachments/assets/815ebfa5-85ca-449e-aeae-f676e4025c85" />
+
+
+### With Dropout
+
+- Dropout layer injects noise during training, mimicing unseen test data to prevent overfitting, where the model learns to memorize the test data.
+
+<img width="1098" height="465" alt="image" src="https://github.com/user-attachments/assets/f7824393-2a16-4647-9899-6eff431c17be" />
+
 
 
 
