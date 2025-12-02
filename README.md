@@ -1,4 +1,12 @@
 # Some Visualisation Highlights from my Portfolio
+
+<h3 align="center">Watch the App Demo</h3>
+<div align="center">
+  <video src="./Qomhra_Fast.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Datasets and Models
 https://huggingface.co/jmcinern
 - Tokenizers
