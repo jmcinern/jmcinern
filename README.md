@@ -42,6 +42,7 @@
 - Collected the CAC 40 market price for the same time period, calculated daily returns, acting as a proxy for the French stock market.
 - Tested statisticsl assumptions of stationarity, heteroscedasticity and multi-colinearity, before performing parsimonious Vector Autogregressive (VAR) experiments.
 - Measured the impact of negative sentiment on the stock market, identifying the significant relationship, that returns were positive when no negative sentiment detected.
+  
 
  ## A Visualisation of Multicolinearity - Spectral Data for Virus Classification
  ![image](https://github.com/user-attachments/assets/b8014aa7-bce6-4ce3-8945-ec569c5a065e)
