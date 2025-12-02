@@ -44,7 +44,8 @@
 - Measured the impact of negative sentiment on the stock market, identifying the significant relationship, that returns were positive when no negative sentiment detected.
   
 
- ## A Visualisation of Multicolinearity - Spectral Data for Virus Classification
+## A Visualisation of Multicolinearity - Spectral Data for Virus Classification
+
  ![image](https://github.com/user-attachments/assets/b8014aa7-bce6-4ce3-8945-ec569c5a065e)
 
 ## Comparing Distributions of Language Complexity Across Writing Styles
