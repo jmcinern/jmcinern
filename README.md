@@ -74,7 +74,7 @@
 
 - Modelling PrimeKG medical database as a knowledge graph, modelling multiple probabilities.
 
-![image](https://github.com/user-attachments/assets/6c68bf6c-ffea-4a24-b7d6-b7070234a487
+<img width="326" height="368" alt="image" src="https://github.com/user-attachments/assets/812c7b64-70e0-45aa-9676-86054d8ff038" />
 
 ## Potuguese Grade Feature Correlation Matrix
 
