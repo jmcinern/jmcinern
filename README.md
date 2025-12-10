@@ -1,7 +1,7 @@
 # My Portfolio 
 - This contains a selection of projects, more can be found at my GitHub and Hugging Face, with username jmcinern. 
 - Contact: mcinerjo@tcd.ie
-## V1 Bilingual Irish and English 8B parameter LLM that I developed.
+## Qommhrá: V1 Bilingual Irish and English 8B parameter LLM
 <h3 align="center">Qomhrá LLM Demo</h3>
 <div align="center">
   <video src="./Qomhra_Cropped.mp4" width="100%" controls autoplay muted loop>
