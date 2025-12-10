@@ -72,7 +72,7 @@
 
 ## Topology of a Bayesian Network
 
-- Modelling PrimeKG medical database as a knowledge graph, modelling multiple probabilities.
+- Modelling PrimeKG medical database as a knowledge graph, modelling conditional probabilities.
 
 <img width="326" height="368" alt="image" src="https://github.com/user-attachments/assets/812c7b64-70e0-45aa-9676-86054d8ff038" />
 
